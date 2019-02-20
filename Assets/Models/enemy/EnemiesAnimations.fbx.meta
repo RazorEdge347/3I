@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 10f7b825e052be9459abd5d859b5db5a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 35dc9dd0_obj
+    100002: chest
+    100004: Circle
+    100006: Circle.001
+    100008: Circle.002
+    100010: Cube
+    100012: //RootNode
+    100014: f_index.01.R
+    100016: f_index.02.R
+    100018: f_index.03.R
+    100020: f_index.03.R_end
+    100022: f_middle.01.R
+    100024: f_middle.02.R
+    100026: f_middle.03.R
+    100028: f_middle.03.R_end
+    100030: f_pinky.01.R
+    100032: f_pinky.02.R
+    100034: f_pinky.03.R
+    100036: f_pinky.03.R_end
+    100038: f_ring.01.R
+    100040: f_ring.02.R
+    100042: f_ring.03.R
+    100044: f_ring.03.R_end
+    100046: foot.L
+    100048: foot.R
+    100050: forearm.L
+    100052: forearm.R
+    100054: hand.L
+    100056: hand.L_end
+    100058: hand.R
+    100060: head
+    100062: head_end
+    100064: hips
+    100066: LeftElbowIK
+    100068: LeftElbowIK_end
+    100070: LeftFootIK
+    100072: LeftFootIK_end
+    100074: LeftHandIK
+    100076: LeftHandIK_end
+    100078: LeftKneeIK
+    100080: LeftKneeIK_end
+    100082: MAIN
+    100084: MASTER
+    100086: metarig
+    100088: neck
+    100090: RightElbowIK
+    100092: RightElbowIK_end
+    100094: RightFootIK
+    100096: RightFootIK_end
+    100098: RightHandIK
+    100100: RightHandIK_end
+    100102: RightKneeIK
+    100104: RightKneeIK_end
+    100106: shin.L
+    100108: shin.R
+    100110: shoulder.L
+    100112: shoulder.R
+    100114: spine
+    100116: thigh.L
+    100118: thigh.R
+    100120: thumb.01.R
+    100122: thumb.02.R
+    100124: thumb.03.R
+    100126: thumb.03.R_end
+    100128: toe.L
+    100130: toe.L_end
+    100132: toe.R
+    100134: toe.R_end
+    100136: upper_arm.L
+    100138: upper_arm.R
+    400000: 35dc9dd0_obj
+    400002: chest
+    400004: Circle
+    400006: Circle.001
+    400008: Circle.002
+    400010: Cube
+    400012: //RootNode
+    400014: f_index.01.R
+    400016: f_index.02.R
+    400018: f_index.03.R
+    400020: f_index.03.R_end
+    400022: f_middle.01.R
+    400024: f_middle.02.R
+    400026: f_middle.03.R
+    400028: f_middle.03.R_end
+    400030: f_pinky.01.R
+    400032: f_pinky.02.R
+    400034: f_pinky.03.R
+    400036: f_pinky.03.R_end
+    400038: f_ring.01.R
+    400040: f_ring.02.R
+    400042: f_ring.03.R
+    400044: f_ring.03.R_end
+    400046: foot.L
+    400048: foot.R
+    400050: forearm.L
+    400052: forearm.R
+    400054: hand.L
+    400056: hand.L_end
+    400058: hand.R
+    400060: head
+    400062: head_end
+    400064: hips
+    400066: LeftElbowIK
+    400068: LeftElbowIK_end
+    400070: LeftFootIK
+    400072: LeftFootIK_end
+    400074: LeftHandIK
+    400076: LeftHandIK_end
+    400078: LeftKneeIK
+    400080: LeftKneeIK_end
+    400082: MAIN
+    400084: MASTER
+    400086: metarig
+    400088: neck
+    400090: RightElbowIK
+    400092: RightElbowIK_end
+    400094: RightFootIK
+    400096: RightFootIK_end
+    400098: RightHandIK
+    400100: RightHandIK_end
+    400102: RightKneeIK
+    400104: RightKneeIK_end
+    400106: shin.L
+    400108: shin.R
+    400110: shoulder.L
+    400112: shoulder.R
+    400114: spine
+    400116: thigh.L
+    400118: thigh.R
+    400120: thumb.01.R
+    400122: thumb.02.R
+    400124: thumb.03.R
+    400126: thumb.03.R_end
+    400128: toe.L
+    400130: toe.L_end
+    400132: toe.R
+    400134: toe.R_end
+    400136: upper_arm.L
+    400138: upper_arm.R
+    2300000: Circle
+    2300002: Circle.001
+    2300004: Circle.002
+    2300006: Cube
+    3300000: Circle
+    3300002: Circle.001
+    3300004: Circle.002
+    3300006: Cube
+    4300000: Circle.002
+    4300002: Circle.001
+    4300004: Circle
+    4300006: Cube
+    4300008: 35dc9dd0_obj
+    7400000: metarig|WALK
+    9500000: //RootNode
+    13700000: 35dc9dd0_obj
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__26
+    second: {fileID: 2100000, guid: 287eda7d2b5db3c4f92d4be780566b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__34
+    second: {fileID: 2100000, guid: 287eda7d2b5db3c4f92d4be780566b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__36
+    second: {fileID: 2100000, guid: e60fdc771ea0fea4dab3921591221917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__36_NONE
+    second: {fileID: 2100000, guid: e60fdc771ea0fea4dab3921591221917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__37
+    second: {fileID: 2100000, guid: 287eda7d2b5db3c4f92d4be780566b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__38
+    second: {fileID: 2100000, guid: 287eda7d2b5db3c4f92d4be780566b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__40
+    second: {fileID: 2100000, guid: 287eda7d2b5db3c4f92d4be780566b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 82736be516d0764439929b65e33a9ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None
+    second: {fileID: 2100000, guid: f33ca68ec382fa9439b9c746b5a22ec9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
